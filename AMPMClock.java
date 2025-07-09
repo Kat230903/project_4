@@ -1,6 +1,5 @@
 /*
 	Name: Aikaterinh Palaiologou
-	Student Number:p3210149
 */
 
 class AMPMClock extends Clock {
